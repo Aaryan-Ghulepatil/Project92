@@ -1,0 +1,21 @@
+#player1_name , #player2_name{
+   width: 60%;
+}
+body{
+    background-image: url("quiz.jpg");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    padding-top: 90px;
+}
+
+#output{
+    border-radius: 10px;
+    border-top: 7px solid ;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    background: yellowgreen;
+}
+#input_check_box{
+   background-color: yellow;
+}
